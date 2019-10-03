@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/OAuth_Direct_Login",
+    "name": "openmage-module-fostering\/oauth_direct_login",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",

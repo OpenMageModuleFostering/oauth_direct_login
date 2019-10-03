@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/OAuth_Direct_Login",
+    "name": "OpenMageModuleFostering\/OAuth_Direct_Login",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "REST API oauth direct login extension is to avoid manual login during the oauth authentication process.",
     "authors": [
-    {
-        "name": "Eversun Software Corp.",
-        "email": "support@eversunsoft.com"
-    }
-],
+        {
+            "name": "Eversun Software Corp.",
+            "email": "support@eversunsoft.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
